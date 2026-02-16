@@ -7,13 +7,13 @@
 
 Email Me 👉 ✉️ **utkarshkhajuria55@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Cortex(An AI B2B support platform)
+- 🔭 **I’m currently working on:** Vertex(AI powered IDE) (Just Finshed Cortex(An AI B2B support platform))->Check it out!!
 - 🌱 **I’m currently learning:** Deeplearning
 - 🤔 **I’m looking for help with:** With Any issues
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** utkarshkhajuria55@gmail.com
-- 😄 **Pronouns:** Utkarsh
-- ⚡ **Fun fact:** I Love Make AI Saas Projects!!!
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love Making AI Saas Projects/ML Projects!!!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarshk_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshkhajuria05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarshkhajuria55@gmail.com) 
 
