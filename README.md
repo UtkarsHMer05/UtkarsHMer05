@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Utkarsh Khajuria
-**A passionate Fullstack Web Developer || Aspiring AI/ML Engineer || Interned At CSIR-IIIM**
+**A passionate Fullstack Web Developer || Aspiring AI/ML Engineer || Interned At CSIR-IIIM || GSoc'26 Contributor @CGAL**
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
