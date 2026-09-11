@@ -44,7 +44,7 @@ I build **developer tools, distributed systems, collaborative software, AI produ
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student at VIT Chennai** interested in building software where the interesting problems are deeper than the UI.
+I'm a **Computer Science Engineering student** interested in building software where the interesting problems are deeper than the UI.
 
 I enjoy working across the stack — from **C++ schedulers, CRDTs, concurrency and distributed systems** to **AI agents, full-stack products, cloud infrastructure and developer tooling**.
 
